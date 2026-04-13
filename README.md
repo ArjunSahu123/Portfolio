@@ -2,7 +2,7 @@
 
 **B.Tech Biotechnology · Delhi Technological University (DTU) · Batch of 2027**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arjun--sahu-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arjun-sahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arjun--sahu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arjun-sahu-005193204/)
 [![GitHub](https://img.shields.io/badge/GitHub-ArjunSahu123-181717?style=flat&logo=github)](https://github.com/ArjunSahu123)
 [![Email](https://img.shields.io/badge/Email-Sahu1305jhs%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Sahu1305jhs@gmail.com)
 
@@ -148,7 +148,7 @@ Active poet for 3+ years. State-level chess player.
 ## Contact
 
 **Email:** Sahu1305jhs@gmail.com
-**LinkedIn:** [linkedin.com/in/arjun-sahu](https://linkedin.com/in/arjun-sahu)
+**LinkedIn:** [linkedin.com/in/arjun-sahu](https://www.linkedin.com/in/arjun-sahu-005193204/)
 **Location:** New Delhi · Open to remote
 
 > *"You don't force a model onto data. You understand what the data is trying to say first."*
